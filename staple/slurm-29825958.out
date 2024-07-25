@@ -1,0 +1,3393 @@
+Starting class T2w
+Volume 1 out of 10
+completed ts segmentation
+38020
+completed mr segmentation
+46516
+completed vibe segmentation
+36783
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+spleen
+completed ts segmentation
+9621
+completed mr segmentation
+14768
+completed vibe segmentation
+12367
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_kidney
+completed ts segmentation
+5400
+completed mr segmentation
+6873
+completed vibe segmentation
+7312
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_kidney
+completed ts segmentation
+14243
+completed mr segmentation
+18131
+completed vibe segmentation
+16320
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+stomach
+completed ts segmentation
+2084
+completed mr segmentation
+2422
+completed vibe segmentation
+6665
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+pancreas
+completed ts segmentation
+130
+completed mr segmentation
+183
+completed vibe segmentation
+382
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_adrenal_gland
+completed ts segmentation
+161
+completed mr segmentation
+217
+completed vibe segmentation
+325
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_adrenal_gland
+completed ts segmentation
+2674
+completed mr segmentation
+5142
+completed vibe segmentation
+6670
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+aorta
+completed ts segmentation
+1725
+completed mr segmentation
+2648
+completed vibe segmentation
+5389
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+inferior_vena_cava
+completed ts segmentation
+123795
+completed mr segmentation
+128263
+completed vibe segmentation
+147588
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+liver
+/data/drdcad/nicole/outputs/with_liver/A_SE_T2w/0001_0008.nii
+[]
+Volume 2 out of 10
+completed ts segmentation
+50058
+completed mr segmentation
+67652
+completed vibe segmentation
+53320
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+spleen
+completed ts segmentation
+13412
+completed mr segmentation
+20458
+completed vibe segmentation
+17459
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_kidney
+completed ts segmentation
+8619
+completed mr segmentation
+10402
+completed vibe segmentation
+10136
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_kidney
+completed ts segmentation
+12232
+completed mr segmentation
+15401
+completed vibe segmentation
+19927
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+stomach
+completed ts segmentation
+1367
+completed mr segmentation
+2793
+completed vibe segmentation
+10260
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+pancreas
+completed ts segmentation
+165
+completed mr segmentation
+248
+completed vibe segmentation
+589
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_adrenal_gland
+completed ts segmentation
+347
+completed mr segmentation
+373
+completed vibe segmentation
+641
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_adrenal_gland
+completed ts segmentation
+2030
+completed mr segmentation
+3632
+completed vibe segmentation
+4703
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+aorta
+completed ts segmentation
+1299
+completed mr segmentation
+2788
+completed vibe segmentation
+4632
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+inferior_vena_cava
+completed ts segmentation
+105328
+completed mr segmentation
+123056
+completed vibe segmentation
+132543
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+liver
+/data/drdcad/nicole/outputs/with_liver/A_SE_T2w/0001_0027.nii
+[]
+Volume 3 out of 10
+completed ts segmentation
+57478
+completed mr segmentation
+63463
+completed vibe segmentation
+60486
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+spleen
+completed ts segmentation
+13498
+completed mr segmentation
+20691
+completed vibe segmentation
+27771
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_kidney
+completed ts segmentation
+16921
+completed mr segmentation
+15687
+completed vibe segmentation
+31915
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_kidney
+completed ts segmentation
+48469
+completed mr segmentation
+52353
+completed vibe segmentation
+70006
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+stomach
+completed ts segmentation
+9179
+completed mr segmentation
+8259
+completed vibe segmentation
+18230
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+pancreas
+completed ts segmentation
+261
+completed mr segmentation
+325
+completed vibe segmentation
+516
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_adrenal_gland
+completed ts segmentation
+77
+completed mr segmentation
+186
+completed vibe segmentation
+734
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_adrenal_gland
+completed ts segmentation
+3506
+completed mr segmentation
+7433
+completed vibe segmentation
+10967
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+aorta
+completed ts segmentation
+9996
+completed mr segmentation
+10338
+completed vibe segmentation
+17356
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+inferior_vena_cava
+completed ts segmentation
+219138
+completed mr segmentation
+236929
+completed vibe segmentation
+284949
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+liver
+/data/drdcad/nicole/outputs/with_liver/A_SE_T2w/0002_0003.nii
+[]
+Volume 4 out of 10
+completed ts segmentation
+73429
+completed mr segmentation
+74109
+completed vibe segmentation
+78959
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+spleen
+completed ts segmentation
+10756
+completed mr segmentation
+13095
+completed vibe segmentation
+15637
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_kidney
+completed ts segmentation
+13696
+completed mr segmentation
+15346
+completed vibe segmentation
+19040
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_kidney
+completed ts segmentation
+65352
+completed mr segmentation
+64486
+completed vibe segmentation
+76948
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+stomach
+completed ts segmentation
+19415
+completed mr segmentation
+16547
+completed vibe segmentation
+27195
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+pancreas
+completed ts segmentation
+266
+completed mr segmentation
+499
+completed vibe segmentation
+745
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_adrenal_gland
+completed ts segmentation
+555
+completed mr segmentation
+570
+completed vibe segmentation
+1647
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_adrenal_gland
+completed ts segmentation
+13647
+completed mr segmentation
+17887
+completed vibe segmentation
+26289
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+aorta
+completed ts segmentation
+8616
+completed mr segmentation
+10577
+completed vibe segmentation
+18558
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+inferior_vena_cava
+completed ts segmentation
+345280
+completed mr segmentation
+378714
+completed vibe segmentation
+432354
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+liver
+/data/drdcad/nicole/outputs/with_liver/A_SE_T2w/0022_0003.nii
+[]
+Volume 5 out of 10
+completed ts segmentation
+27183
+completed mr segmentation
+28366
+completed vibe segmentation
+31815
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+spleen
+completed ts segmentation
+7837
+completed mr segmentation
+9125
+completed vibe segmentation
+9824
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_kidney
+completed ts segmentation
+7390
+completed mr segmentation
+9801
+completed vibe segmentation
+10768
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_kidney
+completed ts segmentation
+33955
+completed mr segmentation
+34573
+completed vibe segmentation
+56355
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+stomach
+completed ts segmentation
+105
+completed mr segmentation
+2755
+completed vibe segmentation
+8962
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+pancreas
+completed ts segmentation
+17
+completed mr segmentation
+22
+completed vibe segmentation
+223
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_adrenal_gland
+completed ts segmentation
+0
+completed mr segmentation
+0
+completed vibe segmentation
+239
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_adrenal_gland
+completed ts segmentation
+3874
+completed mr segmentation
+5668
+completed vibe segmentation
+8256
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+aorta
+completed ts segmentation
+2307
+completed mr segmentation
+2794
+completed vibe segmentation
+6703
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+inferior_vena_cava
+completed ts segmentation
+113622
+completed mr segmentation
+133284
+completed vibe segmentation
+156549
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+liver
+/data/drdcad/nicole/outputs/with_liver/A_SE_T2w/0033_0008.nii
+[]
+Volume 6 out of 10
+completed ts segmentation
+49182
+completed mr segmentation
+50482
+completed vibe segmentation
+51738
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+spleen
+completed ts segmentation
+10613
+completed mr segmentation
+12524
+completed vibe segmentation
+14260
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_kidney
+completed ts segmentation
+10439
+completed mr segmentation
+14285
+completed vibe segmentation
+16427
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_kidney
+completed ts segmentation
+14739
+completed mr segmentation
+15132
+completed vibe segmentation
+29891
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+stomach
+completed ts segmentation
+2848
+completed mr segmentation
+3506
+completed vibe segmentation
+14312
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+pancreas
+completed ts segmentation
+224
+completed mr segmentation
+328
+completed vibe segmentation
+270
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_adrenal_gland
+completed ts segmentation
+155
+completed mr segmentation
+121
+completed vibe segmentation
+817
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_adrenal_gland
+completed ts segmentation
+7940
+completed mr segmentation
+11150
+completed vibe segmentation
+19940
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+aorta
+completed ts segmentation
+3253
+completed mr segmentation
+5537
+completed vibe segmentation
+10034
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+inferior_vena_cava
+completed ts segmentation
+178081
+completed mr segmentation
+185811
+completed vibe segmentation
+221498
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+liver
+/data/drdcad/nicole/outputs/with_liver/A_SE_T2w/0101_0035.nii
+[]
+Volume 7 out of 10
+completed ts segmentation
+42928
+completed mr segmentation
+46124
+completed vibe segmentation
+44476
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+spleen
+completed ts segmentation
+11404
+completed mr segmentation
+15535
+completed vibe segmentation
+15799
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_kidney
+completed ts segmentation
+9211
+completed mr segmentation
+13770
+completed vibe segmentation
+14939
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_kidney
+completed ts segmentation
+9178
+completed mr segmentation
+11886
+completed vibe segmentation
+25302
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+stomach
+completed ts segmentation
+2421
+completed mr segmentation
+1975
+completed vibe segmentation
+9968
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+pancreas
+completed ts segmentation
+166
+completed mr segmentation
+209
+completed vibe segmentation
+278
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_adrenal_gland
+completed ts segmentation
+140
+completed mr segmentation
+216
+completed vibe segmentation
+549
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_adrenal_gland
+completed ts segmentation
+5721
+completed mr segmentation
+9291
+completed vibe segmentation
+17990
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+aorta
+completed ts segmentation
+3653
+completed mr segmentation
+6359
+completed vibe segmentation
+10988
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+inferior_vena_cava
+completed ts segmentation
+137468
+completed mr segmentation
+163177
+completed vibe segmentation
+204179
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+liver
+/data/drdcad/nicole/outputs/with_liver/A_SE_T2w/0101_0036.nii
+[]
+Volume 8 out of 10
+completed ts segmentation
+21188
+completed mr segmentation
+28657
+completed vibe segmentation
+27144
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+spleen
+completed ts segmentation
+4065
+completed mr segmentation
+3677
+completed vibe segmentation
+5244
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_kidney
+completed ts segmentation
+5950
+completed mr segmentation
+6966
+completed vibe segmentation
+12423
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_kidney
+completed ts segmentation
+17382
+completed mr segmentation
+14585
+completed vibe segmentation
+42459
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+stomach
+completed ts segmentation
+451
+completed mr segmentation
+44
+completed vibe segmentation
+2906
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+pancreas
+completed ts segmentation
+0
+completed mr segmentation
+0
+completed vibe segmentation
+65
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_adrenal_gland
+completed ts segmentation
+3
+completed mr segmentation
+0
+completed vibe segmentation
+79
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_adrenal_gland
+completed ts segmentation
+878
+completed mr segmentation
+3886
+completed vibe segmentation
+14543
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+aorta
+completed ts segmentation
+1378
+completed mr segmentation
+1821
+completed vibe segmentation
+7666
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+inferior_vena_cava
+completed ts segmentation
+79379
+completed mr segmentation
+81350
+completed vibe segmentation
+137357
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+liver
+/data/drdcad/nicole/outputs/with_liver/A_SE_T2w/0104_0009.nii
+[]
+Volume 9 out of 10
+completed ts segmentation
+104799
+completed mr segmentation
+177588
+completed vibe segmentation
+162602
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+spleen
+completed ts segmentation
+23886
+completed mr segmentation
+26164
+completed vibe segmentation
+48939
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_kidney
+completed ts segmentation
+82546
+completed mr segmentation
+50097
+completed vibe segmentation
+71224
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_kidney
+completed ts segmentation
+143366
+completed mr segmentation
+113016
+completed vibe segmentation
+359286
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+stomach
+completed ts segmentation
+1035
+completed mr segmentation
+105
+completed vibe segmentation
+35866
+completed conversion
+STAPLE operation timed out.
+failed
+pancreas
+completed ts segmentation
+346
+completed mr segmentation
+761
+completed vibe segmentation
+1221
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_adrenal_gland
+completed ts segmentation
+0
+completed mr segmentation
+0
+completed vibe segmentation
+1405
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_adrenal_gland
+completed ts segmentation
+15791
+completed mr segmentation
+40218
+completed vibe segmentation
+63999
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+aorta
+completed ts segmentation
+6845
+completed mr segmentation
+10674
+completed vibe segmentation
+38451
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+inferior_vena_cava
+completed ts segmentation
+493570
+completed mr segmentation
+535895
+completed vibe segmentation
+813071
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+liver
+/data/drdcad/nicole/outputs/with_liver/A_SE_T2w/0104_0012.nii
+['pancreas']
+['pancreas']
+Volume 10 out of 10
+completed ts segmentation
+13605
+completed mr segmentation
+21087
+completed vibe segmentation
+25538
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+spleen
+completed ts segmentation
+6644
+completed mr segmentation
+10592
+completed vibe segmentation
+13105
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_kidney
+completed ts segmentation
+9133
+completed mr segmentation
+3442
+completed vibe segmentation
+12921
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_kidney
+completed ts segmentation
+20487
+completed mr segmentation
+23824
+completed vibe segmentation
+34358
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+stomach
+completed ts segmentation
+1141
+completed mr segmentation
+345
+completed vibe segmentation
+5947
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+pancreas
+completed ts segmentation
+128
+completed mr segmentation
+3
+completed vibe segmentation
+228
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_adrenal_gland
+completed ts segmentation
+0
+completed mr segmentation
+0
+completed vibe segmentation
+346
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_adrenal_gland
+completed ts segmentation
+1888
+completed mr segmentation
+6544
+completed vibe segmentation
+11273
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+aorta
+completed ts segmentation
+2058
+completed mr segmentation
+3059
+completed vibe segmentation
+7826
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+inferior_vena_cava
+completed ts segmentation
+94374
+completed mr segmentation
+123726
+completed vibe segmentation
+146866
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+liver
+/data/drdcad/nicole/outputs/with_liver/A_SE_T2w/0104_0023.nii
+[]
+Starting class T2w_fat
+Volume 1 out of 10
+completed ts segmentation
+197648
+completed mr segmentation
+212927
+completed vibe segmentation
+196925
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+spleen
+completed ts segmentation
+24333
+completed mr segmentation
+27576
+completed vibe segmentation
+25076
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_kidney
+completed ts segmentation
+24942
+completed mr segmentation
+25259
+completed vibe segmentation
+30476
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_kidney
+completed ts segmentation
+92961
+completed mr segmentation
+86523
+completed vibe segmentation
+116102
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+stomach
+completed ts segmentation
+7015
+completed mr segmentation
+13054
+completed vibe segmentation
+28004
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+pancreas
+completed ts segmentation
+0
+completed mr segmentation
+38
+completed vibe segmentation
+460
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_adrenal_gland
+completed ts segmentation
+361
+completed mr segmentation
+423
+completed vibe segmentation
+952
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_adrenal_gland
+completed ts segmentation
+658
+completed mr segmentation
+8156
+completed vibe segmentation
+21890
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+aorta
+completed ts segmentation
+2593
+completed mr segmentation
+4750
+completed vibe segmentation
+14588
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+inferior_vena_cava
+completed ts segmentation
+202192
+completed mr segmentation
+211086
+completed vibe segmentation
+267419
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+liver
+/data/drdcad/nicole/outputs/with_liver/A_SE/0004_0027.nii
+[]
+Volume 2 out of 10
+completed ts segmentation
+89337
+completed mr segmentation
+93498
+completed vibe segmentation
+61207
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+spleen
+completed ts segmentation
+11705
+completed mr segmentation
+11200
+completed vibe segmentation
+14489
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_kidney
+completed ts segmentation
+16779
+completed mr segmentation
+14732
+completed vibe segmentation
+22069
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_kidney
+completed ts segmentation
+30298
+completed mr segmentation
+25109
+completed vibe segmentation
+87327
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+stomach
+completed ts segmentation
+419
+completed mr segmentation
+1479
+completed vibe segmentation
+9289
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+pancreas
+completed ts segmentation
+11
+completed mr segmentation
+3
+completed vibe segmentation
+224
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_adrenal_gland
+completed ts segmentation
+96
+completed mr segmentation
+4
+completed vibe segmentation
+463
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_adrenal_gland
+completed ts segmentation
+4050
+completed mr segmentation
+7102
+completed vibe segmentation
+14351
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+aorta
+completed ts segmentation
+7782
+completed mr segmentation
+9571
+completed vibe segmentation
+16290
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+inferior_vena_cava
+completed ts segmentation
+83331
+completed mr segmentation
+112036
+completed vibe segmentation
+294628
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+liver
+/data/drdcad/nicole/outputs/with_liver/A_SE/0016_0012.nii
+[]
+Volume 3 out of 10
+completed ts segmentation
+179096
+completed mr segmentation
+192748
+completed vibe segmentation
+191779
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+spleen
+completed ts segmentation
+42491
+completed mr segmentation
+44189
+completed vibe segmentation
+51348
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_kidney
+completed ts segmentation
+39650
+completed mr segmentation
+40631
+completed vibe segmentation
+49568
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_kidney
+completed ts segmentation
+79215
+completed mr segmentation
+80046
+completed vibe segmentation
+109636
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+stomach
+completed ts segmentation
+9930
+completed mr segmentation
+12648
+completed vibe segmentation
+37043
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+pancreas
+completed ts segmentation
+234
+completed mr segmentation
+1058
+completed vibe segmentation
+847
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_adrenal_gland
+completed ts segmentation
+745
+completed mr segmentation
+1165
+completed vibe segmentation
+1268
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_adrenal_gland
+completed ts segmentation
+1577
+completed mr segmentation
+13858
+completed vibe segmentation
+34878
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+aorta
+completed ts segmentation
+7103
+completed mr segmentation
+10611
+completed vibe segmentation
+30152
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+inferior_vena_cava
+completed ts segmentation
+370616
+completed mr segmentation
+373239
+completed vibe segmentation
+449122
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+liver
+/data/drdcad/nicole/outputs/with_liver/A_SE/0017_0029.nii
+[]
+Volume 4 out of 10
+completed ts segmentation
+74476
+completed mr segmentation
+76501
+completed vibe segmentation
+80804
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+spleen
+completed ts segmentation
+17797
+completed mr segmentation
+18054
+completed vibe segmentation
+16066
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_kidney
+completed ts segmentation
+18319
+completed mr segmentation
+17995
+completed vibe segmentation
+19867
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_kidney
+completed ts segmentation
+64462
+completed mr segmentation
+69473
+completed vibe segmentation
+81466
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+stomach
+completed ts segmentation
+19603
+completed mr segmentation
+19021
+completed vibe segmentation
+28473
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+pancreas
+completed ts segmentation
+300
+completed mr segmentation
+790
+completed vibe segmentation
+1484
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_adrenal_gland
+completed ts segmentation
+938
+completed mr segmentation
+1420
+completed vibe segmentation
+2007
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_adrenal_gland
+completed ts segmentation
+12369
+completed mr segmentation
+16841
+completed vibe segmentation
+24683
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+aorta
+completed ts segmentation
+1343
+completed mr segmentation
+8867
+completed vibe segmentation
+18770
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+inferior_vena_cava
+completed ts segmentation
+389553
+completed mr segmentation
+384465
+completed vibe segmentation
+545256
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+liver
+/data/drdcad/nicole/outputs/with_liver/A_SE/0022_0004.nii
+[]
+Volume 5 out of 10
+completed ts segmentation
+24485
+completed mr segmentation
+26109
+completed vibe segmentation
+26518
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+spleen
+completed ts segmentation
+16718
+completed mr segmentation
+17710
+completed vibe segmentation
+17281
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_kidney
+completed ts segmentation
+17021
+completed mr segmentation
+17920
+completed vibe segmentation
+18349
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_kidney
+completed ts segmentation
+12111
+completed mr segmentation
+11040
+completed vibe segmentation
+15182
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+stomach
+completed ts segmentation
+2879
+completed mr segmentation
+5749
+completed vibe segmentation
+6992
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+pancreas
+completed ts segmentation
+59
+completed mr segmentation
+49
+completed vibe segmentation
+179
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_adrenal_gland
+completed ts segmentation
+166
+completed mr segmentation
+237
+completed vibe segmentation
+319
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_adrenal_gland
+completed ts segmentation
+2948
+completed mr segmentation
+5948
+completed vibe segmentation
+12686
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+aorta
+completed ts segmentation
+2661
+completed mr segmentation
+3327
+completed vibe segmentation
+9020
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+inferior_vena_cava
+completed ts segmentation
+128009
+completed mr segmentation
+129546
+completed vibe segmentation
+147783
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+liver
+/data/drdcad/nicole/outputs/with_liver/A_SE/0035_0008.nii
+[]
+Volume 6 out of 10
+completed ts segmentation
+55624
+completed mr segmentation
+63426
+completed vibe segmentation
+50445
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+spleen
+completed ts segmentation
+18369
+completed mr segmentation
+20221
+completed vibe segmentation
+19672
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_kidney
+completed ts segmentation
+12982
+completed mr segmentation
+15029
+completed vibe segmentation
+16077
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_kidney
+completed ts segmentation
+10252
+completed mr segmentation
+11601
+completed vibe segmentation
+16521
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+stomach
+completed ts segmentation
+685
+completed mr segmentation
+1487
+completed vibe segmentation
+6721
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+pancreas
+completed ts segmentation
+6
+completed mr segmentation
+74
+completed vibe segmentation
+151
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_adrenal_gland
+completed ts segmentation
+0
+completed mr segmentation
+0
+completed vibe segmentation
+262
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_adrenal_gland
+completed ts segmentation
+1186
+completed mr segmentation
+4453
+completed vibe segmentation
+9948
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+aorta
+completed ts segmentation
+1723
+completed mr segmentation
+3419
+completed vibe segmentation
+10160
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+inferior_vena_cava
+completed ts segmentation
+112929
+completed mr segmentation
+122914
+completed vibe segmentation
+140630
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+liver
+/data/drdcad/nicole/outputs/with_liver/A_SE/0037_0010.nii
+[]
+Volume 7 out of 10
+completed ts segmentation
+105250
+completed mr segmentation
+111862
+completed vibe segmentation
+105948
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+spleen
+completed ts segmentation
+31595
+completed mr segmentation
+32834
+completed vibe segmentation
+30973
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_kidney
+completed ts segmentation
+29626
+completed mr segmentation
+31431
+completed vibe segmentation
+36116
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_kidney
+completed ts segmentation
+81194
+completed mr segmentation
+72649
+completed vibe segmentation
+88574
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+stomach
+completed ts segmentation
+6951
+completed mr segmentation
+14651
+completed vibe segmentation
+22373
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+pancreas
+completed ts segmentation
+64
+completed mr segmentation
+30
+completed vibe segmentation
+481
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_adrenal_gland
+completed ts segmentation
+196
+completed mr segmentation
+110
+completed vibe segmentation
+1220
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_adrenal_gland
+completed ts segmentation
+2276
+completed mr segmentation
+7717
+completed vibe segmentation
+24048
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+aorta
+completed ts segmentation
+4202
+completed mr segmentation
+6472
+completed vibe segmentation
+17676
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+inferior_vena_cava
+completed ts segmentation
+376693
+completed mr segmentation
+382039
+completed vibe segmentation
+438081
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+liver
+/data/drdcad/nicole/outputs/with_liver/A_SE/0041_0021.nii
+[]
+Volume 8 out of 10
+completed ts segmentation
+130696
+completed mr segmentation
+145124
+completed vibe segmentation
+151006
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+spleen
+completed ts segmentation
+62893
+completed mr segmentation
+68437
+completed vibe segmentation
+70972
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_kidney
+completed ts segmentation
+57118
+completed mr segmentation
+61449
+completed vibe segmentation
+67724
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_kidney
+completed ts segmentation
+76959
+completed mr segmentation
+68861
+completed vibe segmentation
+106793
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+stomach
+completed ts segmentation
+14066
+completed mr segmentation
+20042
+completed vibe segmentation
+52125
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+pancreas
+completed ts segmentation
+1003
+completed mr segmentation
+890
+completed vibe segmentation
+1361
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_adrenal_gland
+completed ts segmentation
+1612
+completed mr segmentation
+1916
+completed vibe segmentation
+3060
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_adrenal_gland
+completed ts segmentation
+32792
+completed mr segmentation
+38927
+completed vibe segmentation
+64309
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+aorta
+completed ts segmentation
+10414
+completed mr segmentation
+13042
+completed vibe segmentation
+33460
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+inferior_vena_cava
+completed ts segmentation
+706359
+completed mr segmentation
+738738
+completed vibe segmentation
+853083
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+liver
+/data/drdcad/nicole/outputs/with_liver/A_SE/0079_0013.nii
+[]
+Volume 9 out of 10
+completed ts segmentation
+22772
+completed mr segmentation
+23781
+completed vibe segmentation
+24958
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+spleen
+completed ts segmentation
+13505
+completed mr segmentation
+13971
+completed vibe segmentation
+14903
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_kidney
+completed ts segmentation
+13077
+completed mr segmentation
+13970
+completed vibe segmentation
+15541
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_kidney
+completed ts segmentation
+14443
+completed mr segmentation
+14048
+completed vibe segmentation
+18112
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+stomach
+completed ts segmentation
+1691
+completed mr segmentation
+4459
+completed vibe segmentation
+7767
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+pancreas
+completed ts segmentation
+152
+completed mr segmentation
+121
+completed vibe segmentation
+150
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_adrenal_gland
+completed ts segmentation
+220
+completed mr segmentation
+228
+completed vibe segmentation
+449
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_adrenal_gland
+completed ts segmentation
+3065
+completed mr segmentation
+4312
+completed vibe segmentation
+7857
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+aorta
+completed ts segmentation
+2232
+completed mr segmentation
+2840
+completed vibe segmentation
+7074
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+inferior_vena_cava
+completed ts segmentation
+124965
+completed mr segmentation
+130580
+completed vibe segmentation
+164142
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+liver
+/data/drdcad/nicole/outputs/with_liver/A_SE/0092_0034.nii
+[]
+Volume 10 out of 10
+completed ts segmentation
+11979
+completed mr segmentation
+11970
+completed vibe segmentation
+14196
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+spleen
+completed ts segmentation
+10507
+completed mr segmentation
+12583
+completed vibe segmentation
+13309
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_kidney
+completed ts segmentation
+10903
+completed mr segmentation
+11896
+completed vibe segmentation
+13363
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_kidney
+completed ts segmentation
+20054
+completed mr segmentation
+21170
+completed vibe segmentation
+22124
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+stomach
+completed ts segmentation
+4345
+completed mr segmentation
+4133
+completed vibe segmentation
+6350
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+pancreas
+completed ts segmentation
+193
+completed mr segmentation
+211
+completed vibe segmentation
+176
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_adrenal_gland
+completed ts segmentation
+280
+completed mr segmentation
+192
+completed vibe segmentation
+527
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_adrenal_gland
+completed ts segmentation
+1768
+completed mr segmentation
+3957
+completed vibe segmentation
+7964
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+aorta
+completed ts segmentation
+1462
+completed mr segmentation
+2602
+completed vibe segmentation
+7342
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+inferior_vena_cava
+completed ts segmentation
+98208
+completed mr segmentation
+96208
+completed vibe segmentation
+118543
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+liver
+/data/drdcad/nicole/outputs/with_liver/A_SE/0098_0008.nii
+[]
+Starting class venous
+Volume 1 out of 10
+completed ts segmentation
+158853
+completed mr segmentation
+169279
+completed vibe segmentation
+166555
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+spleen
+completed ts segmentation
+53424
+completed mr segmentation
+52284
+completed vibe segmentation
+70452
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_kidney
+completed ts segmentation
+47343
+completed mr segmentation
+47146
+completed vibe segmentation
+55027
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_kidney
+completed ts segmentation
+65070
+completed mr segmentation
+63036
+completed vibe segmentation
+80263
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+stomach
+completed ts segmentation
+25306
+completed mr segmentation
+22030
+completed vibe segmentation
+43129
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+pancreas
+completed ts segmentation
+812
+completed mr segmentation
+1092
+completed vibe segmentation
+902
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_adrenal_gland
+completed ts segmentation
+2141
+completed mr segmentation
+2083
+completed vibe segmentation
+3931
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_adrenal_gland
+completed ts segmentation
+29012
+completed mr segmentation
+36458
+completed vibe segmentation
+52636
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+aorta
+completed ts segmentation
+20974
+completed mr segmentation
+27869
+completed vibe segmentation
+39371
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+inferior_vena_cava
+completed ts segmentation
+699969
+completed mr segmentation
+737898
+completed vibe segmentation
+845719
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+liver
+/data/drdcad/nicole/outputs/with_liver/K/0007_0013.nii
+[]
+Volume 2 out of 10
+completed ts segmentation
+137271
+completed mr segmentation
+145825
+completed vibe segmentation
+155631
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+spleen
+completed ts segmentation
+80201
+completed mr segmentation
+78884
+completed vibe segmentation
+87226
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_kidney
+completed ts segmentation
+84857
+completed mr segmentation
+85541
+completed vibe segmentation
+90947
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_kidney
+completed ts segmentation
+106027
+completed mr segmentation
+102629
+completed vibe segmentation
+134313
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+stomach
+completed ts segmentation
+35779
+completed mr segmentation
+32025
+completed vibe segmentation
+49121
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+pancreas
+completed ts segmentation
+1080
+completed mr segmentation
+949
+completed vibe segmentation
+1972
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_adrenal_gland
+completed ts segmentation
+2074
+completed mr segmentation
+1693
+completed vibe segmentation
+4052
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_adrenal_gland
+completed ts segmentation
+27867
+completed mr segmentation
+34433
+completed vibe segmentation
+52722
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+aorta
+completed ts segmentation
+52405
+completed mr segmentation
+55302
+completed vibe segmentation
+69123
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+inferior_vena_cava
+completed ts segmentation
+564126
+completed mr segmentation
+602347
+completed vibe segmentation
+694243
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+liver
+/data/drdcad/nicole/outputs/with_liver/K/0012_0014.nii
+[]
+Volume 3 out of 10
+completed ts segmentation
+355103
+completed mr segmentation
+381607
+completed vibe segmentation
+356355
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+spleen
+completed ts segmentation
+82674
+completed mr segmentation
+82615
+completed vibe segmentation
+89539
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_kidney
+completed ts segmentation
+77996
+completed mr segmentation
+81798
+completed vibe segmentation
+85891
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_kidney
+completed ts segmentation
+154768
+completed mr segmentation
+156804
+completed vibe segmentation
+195605
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+stomach
+completed ts segmentation
+36146
+completed mr segmentation
+34100
+completed vibe segmentation
+66428
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+pancreas
+completed ts segmentation
+1532
+completed mr segmentation
+1635
+completed vibe segmentation
+2065
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_adrenal_gland
+completed ts segmentation
+2093
+completed mr segmentation
+2174
+completed vibe segmentation
+2344
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_adrenal_gland
+completed ts segmentation
+31415
+completed mr segmentation
+37899
+completed vibe segmentation
+53802
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+aorta
+completed ts segmentation
+34543
+completed mr segmentation
+34746
+completed vibe segmentation
+52077
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+inferior_vena_cava
+completed ts segmentation
+720439
+completed mr segmentation
+765786
+completed vibe segmentation
+937651
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+liver
+/data/drdcad/nicole/outputs/with_liver/K/0017_0025.nii
+[]
+Volume 4 out of 10
+completed ts segmentation
+134055
+completed mr segmentation
+151677
+completed vibe segmentation
+148297
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+spleen
+completed ts segmentation
+46652
+completed mr segmentation
+50194
+completed vibe segmentation
+49903
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_kidney
+completed ts segmentation
+41797
+completed mr segmentation
+46227
+completed vibe segmentation
+46760
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_kidney
+completed ts segmentation
+240766
+completed mr segmentation
+238790
+completed vibe segmentation
+246226
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+stomach
+completed ts segmentation
+23201
+completed mr segmentation
+30333
+completed vibe segmentation
+41446
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+pancreas
+completed ts segmentation
+250
+completed mr segmentation
+179
+completed vibe segmentation
+761
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_adrenal_gland
+completed ts segmentation
+134
+completed mr segmentation
+282
+completed vibe segmentation
+698
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_adrenal_gland
+completed ts segmentation
+11612
+completed mr segmentation
+14262
+completed vibe segmentation
+24146
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+aorta
+completed ts segmentation
+13771
+completed mr segmentation
+11085
+completed vibe segmentation
+26738
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+inferior_vena_cava
+completed ts segmentation
+565904
+completed mr segmentation
+641641
+completed vibe segmentation
+718667
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+liver
+/data/drdcad/nicole/outputs/with_liver/K/0033_0015.nii
+[]
+Volume 5 out of 10
+completed ts segmentation
+503999
+completed mr segmentation
+565723
+completed vibe segmentation
+311763
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+spleen
+completed ts segmentation
+76011
+completed mr segmentation
+77465
+completed vibe segmentation
+76209
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_kidney
+completed ts segmentation
+72113
+completed mr segmentation
+78870
+completed vibe segmentation
+74718
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_kidney
+completed ts segmentation
+91056
+completed mr segmentation
+76261
+completed vibe segmentation
+245771
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+stomach
+completed ts segmentation
+27815
+completed mr segmentation
+36572
+completed vibe segmentation
+51027
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+pancreas
+completed ts segmentation
+946
+completed mr segmentation
+1184
+completed vibe segmentation
+1957
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_adrenal_gland
+completed ts segmentation
+1074
+completed mr segmentation
+1008
+completed vibe segmentation
+2471
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_adrenal_gland
+completed ts segmentation
+18381
+completed mr segmentation
+22960
+completed vibe segmentation
+34722
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+aorta
+completed ts segmentation
+24558
+completed mr segmentation
+23596
+completed vibe segmentation
+40992
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+inferior_vena_cava
+completed ts segmentation
+448914
+completed mr segmentation
+471728
+completed vibe segmentation
+593416
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+liver
+/data/drdcad/nicole/outputs/with_liver/K/0048_0014.nii
+[]
+Volume 6 out of 10
+completed ts segmentation
+328376
+completed mr segmentation
+365364
+completed vibe segmentation
+325348
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+spleen
+completed ts segmentation
+80638
+completed mr segmentation
+80437
+completed vibe segmentation
+93326
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_kidney
+completed ts segmentation
+75181
+completed mr segmentation
+77101
+completed vibe segmentation
+82055
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_kidney
+completed ts segmentation
+122343
+completed mr segmentation
+102449
+completed vibe segmentation
+203012
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+stomach
+completed ts segmentation
+31226
+completed mr segmentation
+30355
+completed vibe segmentation
+62961
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+pancreas
+completed ts segmentation
+1001
+completed mr segmentation
+1279
+completed vibe segmentation
+941
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_adrenal_gland
+completed ts segmentation
+1570
+completed mr segmentation
+1522
+completed vibe segmentation
+5283
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_adrenal_gland
+completed ts segmentation
+22980
+completed mr segmentation
+28940
+completed vibe segmentation
+45216
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+aorta
+completed ts segmentation
+37689
+completed mr segmentation
+37079
+completed vibe segmentation
+55729
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+inferior_vena_cava
+completed ts segmentation
+563764
+completed mr segmentation
+594076
+completed vibe segmentation
+787662
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+liver
+/data/drdcad/nicole/outputs/with_liver/K/0058_0015.nii
+[]
+Volume 7 out of 10
+completed ts segmentation
+345571
+completed mr segmentation
+376110
+completed vibe segmentation
+332386
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+spleen
+completed ts segmentation
+57493
+completed mr segmentation
+58656
+completed vibe segmentation
+60114
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_kidney
+completed ts segmentation
+62800
+completed mr segmentation
+68056
+completed vibe segmentation
+67663
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_kidney
+completed ts segmentation
+164230
+completed mr segmentation
+161173
+completed vibe segmentation
+183859
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+stomach
+completed ts segmentation
+17510
+completed mr segmentation
+24322
+completed vibe segmentation
+43615
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+pancreas
+completed ts segmentation
+404
+completed mr segmentation
+530
+completed vibe segmentation
+1434
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_adrenal_gland
+completed ts segmentation
+822
+completed mr segmentation
+1319
+completed vibe segmentation
+3237
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_adrenal_gland
+completed ts segmentation
+30488
+completed mr segmentation
+37779
+completed vibe segmentation
+54396
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+aorta
+completed ts segmentation
+29678
+completed mr segmentation
+31063
+completed vibe segmentation
+50320
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+inferior_vena_cava
+completed ts segmentation
+453305
+completed mr segmentation
+485129
+completed vibe segmentation
+567489
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+liver
+/data/drdcad/nicole/outputs/with_liver/K/0068_0018.nii
+[]
+Volume 8 out of 10
+completed ts segmentation
+301732
+completed mr segmentation
+334641
+completed vibe segmentation
+304079
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+spleen
+completed ts segmentation
+101537
+completed mr segmentation
+104409
+completed vibe segmentation
+106078
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_kidney
+completed ts segmentation
+101847
+completed mr segmentation
+113229
+completed vibe segmentation
+111471
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_kidney
+completed ts segmentation
+92639
+completed mr segmentation
+93399
+completed vibe segmentation
+115913
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+stomach
+completed ts segmentation
+49366
+completed mr segmentation
+53112
+completed vibe segmentation
+70537
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+pancreas
+completed ts segmentation
+1502
+completed mr segmentation
+1244
+completed vibe segmentation
+1827
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_adrenal_gland
+completed ts segmentation
+1556
+completed mr segmentation
+1646
+completed vibe segmentation
+2983
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_adrenal_gland
+completed ts segmentation
+24360
+completed mr segmentation
+30573
+completed vibe segmentation
+42078
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+aorta
+completed ts segmentation
+41730
+completed mr segmentation
+43088
+completed vibe segmentation
+60201
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+inferior_vena_cava
+completed ts segmentation
+741512
+completed mr segmentation
+798916
+completed vibe segmentation
+885682
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+liver
+/data/drdcad/nicole/outputs/with_liver/K/0077_0021.nii
+[]
+Volume 9 out of 10
+completed ts segmentation
+427995
+completed mr segmentation
+466253
+completed vibe segmentation
+376087
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+spleen
+completed ts segmentation
+67922
+completed mr segmentation
+68824
+completed vibe segmentation
+73289
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_kidney
+completed ts segmentation
+75018
+completed mr segmentation
+78529
+completed vibe segmentation
+87753
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_kidney
+completed ts segmentation
+145980
+completed mr segmentation
+149463
+completed vibe segmentation
+219965
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+stomach
+completed ts segmentation
+35728
+completed mr segmentation
+34602
+completed vibe segmentation
+63950
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+pancreas
+completed ts segmentation
+880
+completed mr segmentation
+1220
+completed vibe segmentation
+1161
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_adrenal_gland
+completed ts segmentation
+974
+completed mr segmentation
+1041
+completed vibe segmentation
+2645
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_adrenal_gland
+completed ts segmentation
+29425
+completed mr segmentation
+36222
+completed vibe segmentation
+55646
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+aorta
+completed ts segmentation
+27883
+completed mr segmentation
+29728
+completed vibe segmentation
+48107
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+inferior_vena_cava
+completed ts segmentation
+645877
+completed mr segmentation
+696380
+completed vibe segmentation
+1278037
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+liver
+/data/drdcad/nicole/outputs/with_liver/K/0091_0014.nii
+[]
+Volume 10 out of 10
+completed ts segmentation
+194433
+completed mr segmentation
+206759
+completed vibe segmentation
+216293
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+spleen
+completed ts segmentation
+84606
+completed mr segmentation
+84757
+completed vibe segmentation
+89404
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_kidney
+completed ts segmentation
+82090
+completed mr segmentation
+84304
+completed vibe segmentation
+88905
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_kidney
+completed ts segmentation
+115442
+completed mr segmentation
+111206
+completed vibe segmentation
+125138
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+stomach
+completed ts segmentation
+50271
+completed mr segmentation
+44608
+completed vibe segmentation
+66862
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+pancreas
+completed ts segmentation
+1828
+completed mr segmentation
+1908
+completed vibe segmentation
+4006
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+right_adrenal_gland
+completed ts segmentation
+2906
+completed mr segmentation
+2403
+completed vibe segmentation
+4461
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+left_adrenal_gland
+completed ts segmentation
+33200
+completed mr segmentation
+45563
+completed vibe segmentation
+68441
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+aorta
+completed ts segmentation
+30250
+completed mr segmentation
+25215
+completed vibe segmentation
+48241
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+inferior_vena_cava
+completed ts segmentation
+936860
+completed mr segmentation
+958775
+completed vibe segmentation
+1074519
+completed conversion
+STAPLE operation completed successfully.
+converted to numpy
+added to final stack
+liver
+/data/drdcad/nicole/outputs/with_liver/K/0103_0017.nii
+[]
