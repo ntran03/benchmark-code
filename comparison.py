@@ -16,7 +16,6 @@ l_organs = ["spleen", "right_kidney", "left_kidney", "stomach", "pancreas", "rig
 
 #sequences included in dataset
 class_list =  ["arterial", "delayed", "precontrast", "T2w", "T2w_fat", "venous"]
-class_list =  ["arterial", "delayed", "precontrast", "T2w", "venous"]
 
 #list of labels
 l_organ_labels = [1,2,3,4,5,6,7,8,9,10]
@@ -24,7 +23,6 @@ l_TS_organ_label_IDs = [1, 2, 3, 6, 7, 8, 9, 23, 24, 5]
 l_MRSeg_organ_label_IDs = [1, 2, 3, 6, 7, 8, 9, 13, 14, 5]
 l_TSVIBE_organ_label_IDs = [1, 2, 3, 6, 7, 8, 9, 25, 36, 5]
 
-gt_dir = "/data/drdcad/nicole/outputs/final/" #where the benchmark masks are
 
 print('#########################')
 print('Computing segmentation metrics for ALL Objects - Get overlap of GT with prediction CC')
@@ -151,7 +149,7 @@ def run_comparison(pred_dir, suffix, segmentor, output_path):
         
         print(f"Starting class {mri_class}")
 
-        file_list = [file for file in os.listdir(f"{gt_dir}{mri_class}/temp") if file.endswith(".nii")]
+        file_list = [file for file in os.listdir(f"{gt_dir}{mri_class}") if file.endswith(".nii")]
 
         for gt_file in file_list:
 
@@ -180,9 +178,13 @@ def run_comparison(pred_dir, suffix, segmentor, output_path):
     
 
 if __name__ == "__main__":
-    pred_dir = "/data/drdcad/nicole/outputs/MRSeg/" #where the predicted masks are
+    gt_dir = "/Users/nicol/Library/CloudStorage/Box-Box/Duke_Liver_Dataset/final/" #where the benchmark masks are
+
+    pred_dir = "/Users/nicol/Library/CloudStorage/Box-Box/Duke_Liver_Dataset/TS_VIBE_MR/"
     suffix = ".nii.gz" #the filetype of the predicted masks
-    output_path = "/data/drdcad/nicole/outputs/comparison/"
-    run_comparison(pred_dir, suffix, "mr", output_path)
+
+    output_path = "/Users/nicol/Documents/nih/outputs/"
+
+    run_comparison(pred_dir, suffix, "vibe", output_path)
     
 ##add check for the presence of the directory  "name" before starting
