@@ -1,15 +1,6 @@
-import pandas as pd
 
-numbers = list(range(1, 11))
-
-# Creating a DataFrame with a column named 'nums'
-df = pd.DataFrame(numbers, columns=['nums'])
-
-def convert(x):
-    if x > 5:
-        return "large"
-    else:
-        return "small"
-
-df["new"] = df["nums"].apply(convert)
-print(df)
+gt_file = "C_1000_0077.nii.gz"
+number = gt_file[-16:-7]
+sequence = gt_file[:-17]
+print(number)
+print(sequence)

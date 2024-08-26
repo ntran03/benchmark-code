@@ -16,6 +16,10 @@ l_organs = ["spleen", "right_kidney", "left_kidney", "stomach", "pancreas", "rig
 
 #sequences included in dataset
 class_list =  ["arterial", "delayed", "precontrast", "T2w", "T2w_fat", "venous"]
+class_list =  ["arterial", "delayed", "precontrast", "venous"]
+
+
+
 
 #list of labels
 l_organ_labels = [1,2,3,4,5,6,7,8,9,10]
@@ -149,19 +153,20 @@ def run_comparison(pred_dir, suffix, segmentor, output_path):
         
         print(f"Starting class {mri_class}")
 
-        file_list = [file for file in os.listdir(f"{gt_dir}{mri_class}") if file.endswith(".nii")]
+        file_list = [file for file in os.listdir(f"{gt_dir}{mri_class}") if file.endswith(".nii.gz")]
 
         for gt_file in file_list:
 
             #grab filename info 
-            number = gt_file[-13:-4]
-            sequence = gt_file[:-14]
+            number = gt_file[-16:-7]
+            sequence = gt_file[:-17]
 
             #grab predicted mask
             if segmentor == "mr":
-                 pred_file = f"{pred_dir}{sequence}/{number}_seg{suffix}"
+                pred_file = f"{pred_dir}{sequence}/{number}_seg{suffix}"
             else:
                 pred_file = f"{pred_dir}{sequence}/{number}{suffix}"
+                print(pred_file)
             #pred_file = f"{gt_dir}{mri_class}/{gt_file}"
 
             #get dice and hd_95 (mm) scores
@@ -180,11 +185,15 @@ def run_comparison(pred_dir, suffix, segmentor, output_path):
 if __name__ == "__main__":
     gt_dir = "/Users/nicol/Library/CloudStorage/Box-Box/Duke_Liver_Dataset/final/" #where the benchmark masks are
 
-    pred_dir = "/Users/nicol/Library/CloudStorage/Box-Box/Duke_Liver_Dataset/TS_VIBE_MR/"
-    suffix = ".nii.gz" #the filetype of the predicted masks
+    #pred_dir = "/Users/nicol/Library/CloudStorage/Box-Box/Duke_Liver_Dataset/TS_VIBE_MR/"
+    #pred_dir = "/Users/nicol/Library/CloudStorage/Box-Box/Duke_Liver_Dataset/TS_MR_Complete/"
+    #pred_dir = "/Users/nicol/Library/CloudStorage/Box-Box/Duke_Liver_Dataset/MRSeg/"
+    #pred_dir = "/Users/nicol/Library/CloudStorage/Box-Box/Duke_Liver_Dataset/MRSeg/"
+    suffix = ".nii.gz" #the filetype of the predicted masks mr
+    #suffix = ".nii" #tseg, vibe
 
     output_path = "/Users/nicol/Documents/nih/outputs/"
 
-    run_comparison(pred_dir, suffix, "vibe", output_path)
+    run_comparison(pred_dir, suffix, "mr", output_path)
     
 ##add check for the presence of the directory  "name" before starting
