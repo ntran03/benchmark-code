@@ -26,6 +26,7 @@ l_organ_labels = [1,2,3,4,5,6,7,8,9,10]
 l_TS_organ_label_IDs = [1, 2, 3, 6, 7, 8, 9, 23, 24, 5] 
 l_MRSeg_organ_label_IDs = [1, 2, 3, 6, 7, 8, 9, 13, 14, 5]
 l_TSVIBE_organ_label_IDs = [1, 2, 3, 6, 7, 8, 9, 25, 36, 5]
+l_MRISeg_organ_label_IDs = [1, 2, 3, 7, 11, 12, 13, 8, 9, 5]
 
 
 print('#########################')
@@ -69,8 +70,10 @@ def get_scores(input_mask_CC_GT, input_mask_CC_pred, sequence, number, segmentor
             organ_pred = itk_mask_pred == l_TS_organ_label_IDs[labelID-1]
         elif segmentor == "mr":
             organ_pred = itk_mask_pred == l_MRSeg_organ_label_IDs[labelID-1]
-        else:
+        elif segmentor == "ts":
             organ_pred = itk_mask_pred == l_TSVIBE_organ_label_IDs[labelID-1]
+        else:
+            organ_pred = itk_mask_pred == l_MRISeg_organ_label_IDs[labelID-1]
         ## compute dice
 
         #np_mask_CC_GT = sitk.Cast(organ_GT, sitk.sitkUInt16)
@@ -164,6 +167,8 @@ def run_comparison(pred_dir, suffix, segmentor, output_path):
             #grab predicted mask
             if segmentor == "mr":
                 pred_file = f"{pred_dir}{sequence}/{number}_seg{suffix}"
+            elif segmentor =="mri":
+                pred_file = f"{pred_dir}/{number}{suffix}"
             else:
                 pred_file = f"{pred_dir}{sequence}/{number}{suffix}"
                 print(pred_file)
@@ -188,12 +193,12 @@ if __name__ == "__main__":
     #pred_dir = "/Users/nicol/Library/CloudStorage/Box-Box/Duke_Liver_Dataset/TS_VIBE_MR/"
     #pred_dir = "/Users/nicol/Library/CloudStorage/Box-Box/Duke_Liver_Dataset/TS_MR_Complete/"
     #pred_dir = "/Users/nicol/Library/CloudStorage/Box-Box/Duke_Liver_Dataset/MRSeg/"
-    #pred_dir = "/Users/nicol/Library/CloudStorage/Box-Box/Duke_Liver_Dataset/MRSeg/"
-    suffix = ".nii.gz" #the filetype of the predicted masks mr
+    pred_dir = "/Users/nicol/Library/CloudStorage/Box-Box/Duke_Liver_Dataset/MRISeg_T1w_NIH/"
+    suffix = ".nii.gz" #the filetype of the predicted masks mr, mri
     #suffix = ".nii" #tseg, vibe
 
     output_path = "/Users/nicol/Documents/nih/outputs/"
 
-    run_comparison(pred_dir, suffix, "mr", output_path)
+    run_comparison(pred_dir, suffix, "mri", output_path)
     
 ##add check for the presence of the directory  "name" before starting
